@@ -1,9 +1,9 @@
 # Library_Management_System
 A simple and functional Library Management System Implemented in python 3 (Tkinter module)
 # Installation:
-1.Clone repository
-2. Run `entrypoint.py' on your project directory.
-3. Ensure all dependencies are installed
+1.Clone repository \n
+2. Run `entrypoint.py' on your project directory.\n
+3. Ensure all dependencies are installed\n
 
 # Usage:
 1. Issue Book
